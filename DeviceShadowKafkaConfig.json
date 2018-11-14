@@ -12,7 +12,7 @@
     "commitInterval": "5000"
   },
   "secureKafka": {
-    "isEnabled": "false",
+    "isEnabled": "true",
     "certificateLocation": "",
     "keyLocation": "",
     "securityProtocol": "",
